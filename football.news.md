@@ -1,5 +1,5 @@
-Football News: Real madrid welcomes elche
-Games this weekend:
-Burnley V/S Bournemouth.
-Arsenal V/S Everton.
-Chelsea V/S Newcastle.
+ ---
+title: "Football News Today"
+date: 2026-03-14
+categories: football
+---
