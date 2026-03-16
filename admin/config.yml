@@ -1,4 +1,4 @@
- backend:
+backend:
   name: github
   repo: itzde15/my-fun-blog
   branch: main
@@ -14,4 +14,4 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown"} 
