@@ -1,0 +1,14 @@
+backend:
+  name: github
+  repo: itzde15/my-fun-blog
+
+media_folder: "images"
+
+collections:
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "_posts"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
